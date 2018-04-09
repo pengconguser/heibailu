@@ -25,7 +25,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.instructions}>
-            hello world
+            帅气的老彭
             this is my first android app
         </Text>
       </View>
